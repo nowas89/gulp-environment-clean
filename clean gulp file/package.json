@@ -1,0 +1,27 @@
+{
+  "name": "webdevproject1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nowas89:qwerty7u@github.com/nowas89/Weekly-WebDev-Challenge-34.git"
+  },
+  "author": "nowone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://madconding.pl"
+  },
+  "homepage": "https://madconding.pl",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-webserver": "^0.9.1",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.2.1"
+  },
+  "description": "",
